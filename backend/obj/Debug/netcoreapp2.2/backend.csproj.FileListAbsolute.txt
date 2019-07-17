@@ -1,0 +1,14 @@
+D:\Dev\GitHub\webapi-react\backend\bin\Debug\netcoreapp2.2\backend.deps.json
+D:\Dev\GitHub\webapi-react\backend\bin\Debug\netcoreapp2.2\backend.runtimeconfig.json
+D:\Dev\GitHub\webapi-react\backend\bin\Debug\netcoreapp2.2\backend.runtimeconfig.dev.json
+d:\Dev\GitHub\webapi-react\backend\bin\Debug\netcoreapp2.2\backend.dll
+d:\Dev\GitHub\webapi-react\backend\bin\Debug\netcoreapp2.2\backend.pdb
+d:\Dev\GitHub\webapi-react\backend\obj\Debug\netcoreapp2.2\backend.csprojAssemblyReference.cache
+d:\Dev\GitHub\webapi-react\backend\obj\Debug\netcoreapp2.2\backend.csproj.CoreCompileInputs.cache
+d:\Dev\GitHub\webapi-react\backend\obj\Debug\netcoreapp2.2\backend.RazorAssemblyInfo.cache
+d:\Dev\GitHub\webapi-react\backend\obj\Debug\netcoreapp2.2\backend.RazorAssemblyInfo.cs
+d:\Dev\GitHub\webapi-react\backend\obj\Debug\netcoreapp2.2\backend.AssemblyInfoInputs.cache
+d:\Dev\GitHub\webapi-react\backend\obj\Debug\netcoreapp2.2\backend.AssemblyInfo.cs
+d:\Dev\GitHub\webapi-react\backend\obj\Debug\netcoreapp2.2\backend.RazorTargetAssemblyInfo.cache
+d:\Dev\GitHub\webapi-react\backend\obj\Debug\netcoreapp2.2\backend.dll
+d:\Dev\GitHub\webapi-react\backend\obj\Debug\netcoreapp2.2\backend.pdb
