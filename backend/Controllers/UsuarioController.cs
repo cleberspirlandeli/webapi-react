@@ -5,10 +5,11 @@ using backend.Models;
 
 namespace backend.Controllers
 {
+    [Route("api/usuario/")]
      public class UsuarioController : Controller
      {
 
-         [HttpGet("v1/getUsuarios")]
+         [HttpGet]
          public IActionResult ListarUsuarios(){
              return Ok(new List<Usuario>{
                new Usuario(){
@@ -23,5 +24,10 @@ namespace backend.Controllers
              });
          }
 
+        [HttpGet("{idUsuario}")]
+        public IActionResult ListarUsuarios(int IdUsuario){
+             return Ok({'idUsuario': IdUsuario});
+         }
+         
      }
 }

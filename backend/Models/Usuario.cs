@@ -8,9 +8,9 @@ namespace backend.Models
     public string nome { get; set; }
     public int idade { get; set; }
     
-    public Usuario()
-    {
-        this.id  = Guid.NewGuid();    
-    }
+        public Usuario()
+        {
+            this.id  = Guid.NewGuid();    
+        }
     }
 }
